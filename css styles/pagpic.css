@@ -1,0 +1,31 @@
+div.secpic {
+	margin: 25px;
+
+}
+div.Leftside {
+	width: 1200px;
+	
+}
+div.Rightside{
+	;
+}
+a.sizes {
+	color:#FFA500;
+	text-decoration: none;
+	margin: 10px;
+	font-size: 20px;
+
+	
+}
+img.spic {
+	border: 3px inset #000000;
+}
+div.test {
+	margin: 100px;
+	float: right;
+
+}
+div.lpic {
+	align-content: center;
+}
+}

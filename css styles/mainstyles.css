@@ -1,0 +1,55 @@
+html {
+	min-height: 100%;
+}
+body {
+	margin: 0;
+	background-color:#050404;
+	background-image: url(../pic/cosmos1.jpg);
+}	
+div.headpic {
+	text-align: center;
+	margin: 0;
+
+	
+}
+div.buttons {
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	}
+
+div.section_pictures {
+	margin: 0px;
+	margin-top: 70px;
+	padding-bottom: 60px;
+}
+footer{
+	position: fixed;
+	bottom: 0;
+	height: 50px;
+	width: 100%;
+	background-color: #191917;
+}
+div.section_copyrights {
+	 
+}
+div.copyrights {
+
+}
+a.menu {
+	color:#00fff2;
+	text-decoration: none;
+	margin: 10px;
+	font-size: 24px;	 
+}
+a.menu:hover {
+	text-decoration: underline;
+}
+img.rand{
+	margin: 10px;
+	border: 3px inset #00198c ;
+}
+p.qwe {
+	align-self: center;
+}
